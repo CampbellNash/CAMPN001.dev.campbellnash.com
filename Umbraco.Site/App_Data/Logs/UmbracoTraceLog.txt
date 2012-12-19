@@ -1,0 +1,26 @@
+2012-12-19 09:26:41,655 [12] INFO  Umbraco.Core.CoreBootManager - [Thread 1] Umbraco application starting
+2012-12-19 09:26:42,228 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2012-12-19 09:26:42,269 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 39ms)
+2012-12-19 09:26:49,734 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 5 (took 7396ms)
+2012-12-19 09:26:49,767 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IDataType, found 81 (took 6ms)
+2012-12-19 09:26:49,772 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IMacroGuiRendering, found 13 (took 5ms)
+2012-12-19 09:26:49,778 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IPackageAction, found 18 (took 5ms)
+2012-12-19 09:26:49,783 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IAction, found 35 (took 4ms)
+2012-12-19 09:26:49,789 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
+2012-12-19 09:26:49,798 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 4ms)
+2012-12-19 09:26:51,215 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 11ms)
+2012-12-19 09:26:51,226 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 10ms)
+2012-12-19 09:26:51,493 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 15 (took 12ms)
+2012-12-19 09:26:52,771 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 44ms)
+2012-12-19 09:26:52,973 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 8ms)
+2012-12-19 09:26:53,586 [12] INFO  Umbraco.Core.CoreBootManager - [Thread 1] Umbraco application startup complete (took 11921ms)
+2012-12-19 09:26:59,101 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of umbraco.XsltExtensionAttribute, found 2 (took 22ms)
+2012-12-19 09:26:59,244 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 3 (took 6ms)
+2012-12-19 09:27:00,147 [12] WARN  Umbraco.Web.Routing.NiceUrlProvider - [Thread 8] Couldn't find any page with nodeId=1152. This is most likely caused by the page not being published.
+2012-12-19 09:27:00,147 [12] WARN  Umbraco.Web.Routing.NiceUrlProvider - [Thread 8] Couldn't find any page with nodeId=1074. This is most likely caused by the page not being published.
+2012-12-19 09:27:00,604 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 15 (took 8ms)
+2012-12-19 09:29:42,164 [12] WARN  Umbraco.Web.Routing.NiceUrlProvider - [Thread 11] Couldn't find any page with nodeId=1152. This is most likely caused by the page not being published.
+2012-12-19 09:29:42,164 [12] WARN  Umbraco.Web.Routing.NiceUrlProvider - [Thread 11] Couldn't find any page with nodeId=1074. This is most likely caused by the page not being published.
+2012-12-19 09:29:55,509 [12] WARN  Umbraco.Web.Routing.NiceUrlProvider - [Thread 8] Couldn't find any page with nodeId=1152. This is most likely caused by the page not being published.
+2012-12-19 09:29:55,509 [12] WARN  Umbraco.Web.Routing.NiceUrlProvider - [Thread 8] Couldn't find any page with nodeId=1074. This is most likely caused by the page not being published.
+2012-12-19 09:50:37,396 [12] INFO  Umbraco.Web.UmbracoApplication - [Thread 57] Application shutdown. Reason: HostingEnvironment
