@@ -27,3 +27,10 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+src/*.Umbraco.Site/App_Data/ClientDependency/
+src/*.Umbraco.Site/App_Data/ExamineIndexes/
+src/*.Umbraco.Site/App_Data/TEMP/
+src/*.Umbraco.Site/App_Data/preview/
+src/*.Umbraco.Site/App_Data/umbraco.config
+src/*.Umbraco.Site/data/umbraco.config
+src/*.Umbraco.Site/media/
