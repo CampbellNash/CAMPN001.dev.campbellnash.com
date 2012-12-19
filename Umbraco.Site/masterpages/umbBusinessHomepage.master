@@ -9,10 +9,13 @@
   
 <asp:Content ContentPlaceHolderID="cp_content" runat="server">
     <div class="row bodyTextUpper">
-          <div class="twelvecol last">
+          <div class="ninecol">
 			  
               <umbraco:Item ID="Item2" runat="server" field="bodyText"/>
           </div>
+		  <div class="threecol last">
+			  <umbraco:Macro Alias="GetTestimonials" runat="server"></umbraco:Macro>
+		  </div>
       </div>
       <div class="row bodyTextLower">
           <div class="fourcol">

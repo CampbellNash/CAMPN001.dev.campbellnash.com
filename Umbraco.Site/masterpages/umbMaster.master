@@ -47,6 +47,13 @@
               nav: true,
               speed: 500
           });
+		   $(".hpTestimonials").responsiveSlides({
+              auto: true,
+              pager: false,
+              nav: false,
+              speed: 200,
+			   timeout: 12000,
+          });
       });
 </script>
 <script type="text/javascript">
