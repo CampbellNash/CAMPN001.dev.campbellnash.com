@@ -12,6 +12,15 @@ body
     padding: 0px;
     margin: 0px;
 }
+.yammerWrapper
+{
+    margin-top: 20px;
+}
+
+.yammerPageWrapper
+{
+    float: left;
+}
 .clearfloat {
   clear:both;
   height:0;
@@ -271,12 +280,18 @@ a
             padding-left: 5px;
             line-height: 24px;
             letter-spacing: .2px;
+           -webkit-transition: color .5s linear,background-color .5s linear;
+           transition: color .5s linear,background-color .5s linear;
         }
 
             .menu ul li a:hover
-            {
-                color: #004F78;
-            }
+{
+    color: #004F78;
+     -webkit-transition: color .5s linear,background-color .5s linear;
+    transition: color .5s linear,background-color .5s linear;
+  line-height: 24px;
+    background-color: #eeeeee;
+}
 
         .menu ul li.current
         {

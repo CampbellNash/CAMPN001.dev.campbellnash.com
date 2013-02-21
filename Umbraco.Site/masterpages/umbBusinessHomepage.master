@@ -20,6 +20,10 @@
       <div class="row bodyTextLower">
           <div class="fourcol">
                <umbraco:Macro Alias="GetServicesList" runat="server"></umbraco:Macro>
+               <div class="yammerWrapper">
+                    <h3>Campbell Nash Yammer</h3>
+                    <div id="embedded-feed"></div>
+                </div>
           </div>
            <div class="fourcol">
             <umbraco:Macro ItemCount="5" Alias="UBlogsyShowPostsHomePage" runat="server"></umbraco:Macro>

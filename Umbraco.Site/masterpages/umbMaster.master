@@ -56,6 +56,25 @@
           });
       });
 </script>
+     <!-- This is the new yammer embeed code -->
+                   <script data-app-id="iw0WP4oGLVInDt8dUjsQ" src="https://assets.yammer.com/platform/yam.js"></script>
+                     <script>
+                         yam.connect.embedFeed(
+                           {
+                               container: '#embedded-feed',
+                               network: 'iacubed.com',
+                               feedType: 'group',                // can be 'group', 'topic', or 'user'          
+                               feedId: '1222478',                     // feed ID from the instructions above
+                               config: {
+                                   header: false
+                               }
+                           });
+                         yam.connect.actionButton({
+                             container: "#embedded-like",
+                             network: "iacubed.com",
+                             action: "like"
+                         });
+                    </script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
