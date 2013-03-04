@@ -27,10 +27,27 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+Umbraco.Site/App_Data/TEMP/
+Umbraco.Site/App_Data/Logs/
 src/*.Umbraco.Site/App_Data/ClientDependency/
 src/*.Umbraco.Site/App_Data/ExamineIndexes/
 src/*.Umbraco.Site/App_Data/TEMP/
+src/*.Umbraco.Site/App_Data/Logs/
 src/*.Umbraco.Site/App_Data/preview/
 src/*.Umbraco.Site/App_Data/umbraco.config
 src/*.Umbraco.Site/data/umbraco.config
 src/*.Umbraco.Site/media/
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.txt
+*.hash
+*.list
+*.config
+Umbraco.Site/App_Data/Logs/UmbracoTraceLog.txt
+Umbraco.Site/App_Data/TEMP/PluginCache/umbraco-plugins.hash
+Umbraco.Site/App_Data/TEMP/PluginCache/umbraco-plugins.list
+*.hash
+Umbraco.Site\App_Data\TEMP\PluginCache*/
