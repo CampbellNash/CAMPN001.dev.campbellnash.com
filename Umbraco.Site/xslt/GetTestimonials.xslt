@@ -18,7 +18,7 @@
 
     <xsl:variable name="TestimonialNode" select="$currentPage/parent::*/child::*[@level=1]"/>  
       <div class="hpTestimonialsWrapper">
-		  <h2>Anti-bribery and you</h2>
+		  <h2>Anti-bribery and you </h2>
 		  	<div class="lQuote"><img src="/images/leftQuote.png" /></div>
 		  		<ul class="hpTestimonials">
 					<xsl:for-each select="$TestimonialNode/child::Testimonial">
