@@ -17,17 +17,13 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
-
-[Dd]ebug*/
 *.lib
 *.sbr
-obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
-Umbraco.Site/obj/
 Umbraco.Site/App_Data/TEMP/
 Umbraco.Site/App_Data/Logs/
 src/*.Umbraco.Site/App_Data/ClientDependency/
