@@ -27,6 +27,7 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+Umbraco.Site/obj/
 Umbraco.Site/App_Data/TEMP/
 Umbraco.Site/App_Data/Logs/
 src/*.Umbraco.Site/App_Data/ClientDependency/
