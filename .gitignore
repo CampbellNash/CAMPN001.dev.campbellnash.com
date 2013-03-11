@@ -39,7 +39,7 @@ src/*.Umbraco.Site/App_Data/preview/
 *.log
 *.sql
 *.sqlite
-*.txt
+
 *.hash
 *.list
 *.config
