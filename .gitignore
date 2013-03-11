@@ -36,7 +36,6 @@ src/*.Umbraco.Site/App_Data/preview/
 *.log
 *.sql
 *.sqlite
-
 *.hash
 *.list
 *.config
