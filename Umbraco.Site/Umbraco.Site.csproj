@@ -3501,7 +3501,6 @@
     <Content Include="ImageGen.ashx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="obj\Debug\build.force" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\Umbraco.Site.csprojResolveAssemblyReference.cache" />
   </ItemGroup>
