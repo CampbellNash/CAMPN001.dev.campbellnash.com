@@ -30,7 +30,7 @@
           </div>
            <div class="fourcol last">
 
-               <h3>Business news</h3>
+               <h3>Business news test</h3>
     <umbraco:Macro ID="Macro3" feedUrl="http://feeds.reuters.com/reuters/technologyNews" numberOfItems="5" excerptLength="120" Alias="umbFeedViewer" runat="server"></umbraco:Macro>
   
           </div>
