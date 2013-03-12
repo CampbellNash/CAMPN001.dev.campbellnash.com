@@ -507,7 +507,6 @@
     <Content Include="media\885\jellyfish2_thumb.jpg" />
     <Content Include="obj\Debug\Umbraco.Site.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\Umbraco.Site.dll" />
-    <Content Include="obj\Debug\Umbraco.Site.pdb" />
     <Content Include="Scripts\responsiveslides.js" />
     <Content Include="Umbraco\actions\delete.aspx" />
     <Content Include="Umbraco\actions\editContent.aspx" />
@@ -3499,10 +3498,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ImageGen.ashx" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <Content Include="obj\Debug\Umbraco.Site.csprojResolveAssemblyReference.cache" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="umbraco_client\CodeMirror\js\mode\razor\LICENSE" />
