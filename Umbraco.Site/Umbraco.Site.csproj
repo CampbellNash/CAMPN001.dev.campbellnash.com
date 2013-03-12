@@ -227,6 +227,46 @@
     </Compile>
     <Content Include="App_Code\XSLTsearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="MacroScripts\socialbarshare.html" />
+    <Content Include="Scripts\css3-mediaqueries.js" />
+    <Content Include="Scripts\jquery-1.4.4.min.js" />
+    <Content Include="Scripts\jquery-1.6.min.js" />
+    <Content Include="Scripts\jquery.cycle.all.min.js" />
+    <Content Include="Scripts\responsiveslides.min.js" />
+    <Content Include="Scripts\script.js" />
+    <Content Include="Xslt\CultivSearchEngineSitemap.xslt" />
+    <Content Include="Xslt\DAMP-XSLT.xslt" />
+    <Content Include="Xslt\footerNavigation.xslt" />
+    <Content Include="Xslt\GetDampImage.xslt" />
+    <Content Include="Xslt\GetTestimonials.xslt" />
+    <Content Include="Xslt\homepageServices.xslt" />
+    <Content Include="Xslt\socialbar.xslt" />
+    <Content Include="Xslt\TwitterSearch.xslt" />
+    <Content Include="Xslt\TwitterStatus.xslt" />
+    <Content Include="Xslt\u.mediaSliderImages.xslt" />
+    <Content Include="Xslt\umb2ndLevelNavigation.xslt" />
+    <Content Include="Xslt\umbBlogArchive.xslt" />
+    <Content Include="Xslt\umbBlogCategories.xslt" />
+    <Content Include="Xslt\umbBlogFullArchive.xslt" />
+    <Content Include="Xslt\umbBlogLatestComments.xslt" />
+    <Content Include="Xslt\umbBlogListPosts.xslt" />
+    <Content Include="Xslt\umbBlogMetaWeblogChannel.xslt" />
+    <Content Include="Xslt\umbBlogpages.xslt" />
+    <Content Include="Xslt\umbBlogPostListComments.xslt" />
+    <Content Include="Xslt\umbBlogpostRelatedPages.xslt" />
+    <Content Include="Xslt\umbBlogroll.xslt" />
+    <Content Include="Xslt\umbBlogRss.xslt" />
+    <Content Include="Xslt\umbBlogRssFeedLink.xslt" />
+    <Content Include="Xslt\umbBlogTagcloud.xslt" />
+    <Content Include="Xslt\umbBusinessFrontpageBlog.xslt" />
+    <Content Include="Xslt\umbBusinessFrontpageNews.xslt" />
+    <Content Include="Xslt\umbfeedViewer.xslt" />
+    <Content Include="Xslt\umbNewsListItems.xslt" />
+    <Content Include="Xslt\umbTopNavigation.xslt" />
+    <Content Include="Xslt\umbUtilNavigation.xslt" />
+    <Content Include="Xslt\UserSitemap.xslt" />
+    <Content Include="Xslt\XSLTsearch.xslt" />
+    <Content Include="Xslt\[UMP]VimeoVideo.xslt" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\0288a738-090a-4a2e-a2e6-e5f5de0e98d4\package.xml" />
@@ -3269,11 +3309,9 @@
     <Folder Include="App_Plugins\" />
     <Folder Include="aspnet_client\system_web\4_0_30319\" />
     <Folder Include="images\Cached\" />
-    <Folder Include="MacroScripts\" />
     <Folder Include="media\87\" />
     <Folder Include="obj\Debug\TempPE\" />
     <Folder Include="Views\Partials\" />
-    <Folder Include="Xslt\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
@@ -3298,29 +3336,6 @@
   <ItemGroup>
     <Content Include="App_Data\1c2bdd97-05e3-4107-9dec-21ddabcf2594\.DS_Store" />
     <Content Include="App_Data\access.config" />
-    <Content Include="App_Data\justDelete_3871dd6f-05dd-4f2f-b18a-592e03168d85.udt" />
-    <Content Include="App_Data\justDelete_be3cbef9-d8ef-4c07-b66d-fc200d5ba295.udt" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-04" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-05" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-06" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-07" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-10" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-11" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-13" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-14" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-17" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-18" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2012-12-19" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-01-04" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-01-08" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-01-25" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-01-28" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-01-29" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-01-30" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-02-20" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-02-21" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-02-22" />
-    <Content Include="App_Data\Logs\UmbracoTraceLog.txt.2013-02-25" />
     <Content Include="App_Data\packages\created\createdPackages.config" />
     <Content Include="App_Data\packages\installed\installedPackages.config" />
     <Content Include="App_Data\preview\0_2777a77a-ca29-4b66-ae08-4453ca64c4b1.config" />
@@ -3493,6 +3508,36 @@
   <ItemGroup>
     <Content Include="umbraco_client\CodeMirror\js\mode\razor\LICENSE" />
     <Content Include="umbraco_client\CodeMirror\js\mode\sieve\LICENSE" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MacroScripts\breadcrumbs.cshtml" />
+    <Content Include="MacroScripts\CultivContactForm.cshtml" />
+    <Content Include="MacroScripts\DAMP-Razor.cshtml" />
+    <Content Include="MacroScripts\GetAssocLogos.cshtml" />
+    <Content Include="MacroScripts\getFooterLogo.cshtml" />
+    <Content Include="MacroScripts\GetServicesList.cshtml" />
+    <Content Include="MacroScripts\GoogleMap.cshtml" />
+    <Content Include="MacroScripts\socialbar.cshtml" />
+    <Content Include="MacroScripts\staffPaging.cshtml" />
+    <Content Include="MacroScripts\staffSocialBar.cshtml" />
+    <Content Include="MacroScripts\uBlogsyShowPostsHomePage.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MacroScripts\uBlogsy\uBlogsyBrowserTitle.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListAuthors.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListBlogRoll.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListCategories.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListComments.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListPostArchive.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListPosts.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListRelatedPosts.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyListTags.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyNavigation.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyRSS.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsySearch.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsySeoMeta.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyShowPost.cshtml" />
+    <Content Include="MacroScripts\uBlogsy\uBlogsyShowRSSLink.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
